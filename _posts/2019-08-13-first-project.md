@@ -1,1 +1,1 @@
-I completed my first data science project. It's just a simple analysis of some data to practice making data visualizations. You can check it out at https://medium.com/@xtiangospod/inflation-and-crisis-in-egypt-84c3e1414da6.
+I completed my first data science project. It's just a simple analysis of some data to practice making data visualizations. You can check it out on Medium [here](https://medium.com/@xtiangospod/inflation-and-crisis-in-egypt-84c3e1414da6).
