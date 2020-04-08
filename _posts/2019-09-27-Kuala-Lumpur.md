@@ -1,0 +1,1 @@
+Here's another quick data analysis I did. This one is about housing prices in Kuala Lumpur, Malaysia. The Medium article is [here](https://medium.com/@xtiangospod/housing-prices-in-kuala-lumpur-malaysia-813be115ecb9) and you can view the github repository for replication [here](https://github.com/cmgospod/Kuala_Lumpur).
