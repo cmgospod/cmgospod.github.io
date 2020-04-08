@@ -1,0 +1,3 @@
+I'm proud to have collaborated on Groa, a new movie recommendation engine. I worked with a team of data scientists and made a working engine in eight weeks. My primary role in the project was data acquisition, building and deploying web scrapers on AWS. I learned a lot about dealing with html in Python and especially about making use of AWS while keeping costs low.
+
+Since my time on the project another team has picked up the project to continue iterating on the model and spruce up the frontend. You can check out the site [here](https://www.groa.us/) or the repository [here](https://github.com/Lambda-School-Labs/Groa-ds).
