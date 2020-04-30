@@ -1,1 +1,0 @@
-I completed my first team project! Over the course of four days, we built a website to provide Simpsons quotes for any occasion. I was a junior dev on this project and learned a lot about NLP. You can check out the frontend [here](https://simpsons-says.netlify.app/#) or the Github repo [here](https://github.com/Build-Week-Simpsons-Says).
